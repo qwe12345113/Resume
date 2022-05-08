@@ -6,7 +6,7 @@ layout: default
 <!-- ![Branching](./figures/demo.jpg) -->
 
 # About
-<img alt="" src="figures/photo.JPG" style=" float:left ; margin:10px " width="15%">您好，我是鄭翔尹，今年畢業於元智大學資訊工程所博士班。在學期間，發表2篇 IEEE 國際期刊論文和3篇 IEEE 國際會議論文；並參與3個產學合作計畫。主要的研究方向是電腦視覺，和深度學習；並了解物件偵測，監督與非監督式學習，強化學習...等方面知識。 <br clear="left">
+<img alt="" src="figures/photo.JPG" style=" float:left ; margin:5px " width="20%">您好，我是鄭翔尹，今年畢業於元智大學資訊工程所博士班。在學期間，發表2篇 IEEE 國際期刊論文和3篇 IEEE 國際會議論文；並參與3個產學合作計畫。主要的研究方向是電腦視覺，和深度學習；並了解物件偵測，監督與非監督式學習，強化學習...等方面知識。 <br clear="left">
 
 <!-- 您好，我是鄭翔尹，今年畢業於元智大學資訊工程所博士班。在學期間，發表2篇 IEEE 國際期刊論文和3篇 IEEE 國際會議論文；並參與3個產學合作計畫。主要的研究方向是電腦視覺，和深度學習；並了解物件偵測，監督與非監督式學習，強化學習...等方面知識。 -->
 
