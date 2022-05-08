@@ -74,12 +74,14 @@ The Multi Media Big Data System Lab, Yuan Ze University
 
 ### Research Assistant ( Jan 2019 - Mar 2019 )
 禾伸堂企業股份有限公司
-- Industry‑University Cooperation Projects ：employee orientation.
+- Industry‑University Cooperation Projects ：**Employee Orientation： Python, Data Analysis, and AI**.
   - Design Python programming textbooks.
   - Design course materials such as object detection, image classification, semantic segmentation...etc.
 
 ## Honors & Awards
-<img src="figures/award1.jpg" alt="Cover" width="20%"/> <img src="figures/award2.png" alt="Cover" width="20%"/> <img src="figures/award3.png" alt="Cover" width="40%"/>
+<img src="figures/gcce.jpg" alt="Cover" width="40%"/> <img src="figures/award3.png" alt="Cover" width="38%"/>
+
+<img src="figures/ICICE.jpg" alt="Cover" width="20%"/> <img src="figures/toeic.jpg" alt="Cover" width="20%"/><img src="figures/award2.png" alt="Cover" width="20%"/> <img src="figures/award1.jpg" alt="Cover" width="20%"/>
 
 ## Contact
 
