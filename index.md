@@ -6,7 +6,7 @@ layout: default
 <!-- ![Branching](./figures/demo.jpg) -->
 
 # About
-<img alt="" src="figures/photo.JPG" style=" float:left ; margin:10px " width="20%">My name is Cheng Hsiang-Yin. I have passion in computer science. This passion carried me through my education at Yuan-Ze University. My Ph.D. studies have provided me with broad proficiency in the use of computer science engineering methods, techniques, and tools. Alongside this, I experienced computer programmer with academic experience that has published 2 IEEE journal articles, 3 conference articles, and participated in 3 industry-university cooperation projects. <br clear="left">
+<img alt="" src="figures/photo.JPG" style=" float:left ; margin:10px " width="22%">My name is Cheng Hsiang-Yin. I have passion in computer science. This passion carried me through my education at Yuan-Ze University. My Ph.D. studies have provided me with broad proficiency in the use of computer science engineering methods, techniques, and tools. Alongside this, I experienced computer programmer with academic experience that has published 2 IEEE journal articles, 3 conference articles, and participated in 3 industry-university cooperation projects. <br clear="left">
 
 <!-- 您好，我是鄭翔尹，今年畢業於元智大學資訊工程所博士班。在學期間，發表2篇 IEEE 國際期刊論文和3篇 IEEE 國際會議論文；並參與3個產學合作計畫。主要的研究方向是電腦視覺，和深度學習；並了解物件偵測，監督與非監督式學習，強化學習...等方面知識。 -->
 
