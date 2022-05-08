@@ -32,11 +32,10 @@ My research interests are in the broad area of computer vision, artificial intel
   - Semantic Segmentation ... and so on.
 
 ## Education
-### Doctor of Philosophy - PhD ( Sep 2018 - Sep 2021 )
-
+### Doctor of Philosophy ( Sep 2018 - Sep 2021 )
 Department of Computer Science and Engineering, Yuan Ze University
 
-### Bachelor of Science - BS ( Sep 2014 - Jun 2018 )
+### Bachelor of Science ( Sep 2014 - Jun 2018 )
 Department of Computer Science and Engineering, Yuan Ze University
 
 
@@ -56,7 +55,31 @@ Department of Computer Science and Engineering, Yuan Ze University
 
 ## Experience
 
-### Research Assistant
+### Research Assistant ( Sep 2018 - Sep 2021 )
+The Multi Media Big Data System Lab, Yuan Ze University
+- 3 paper submitted to IEEE TITS, IEEE GRSL and IEEE ICASSP.
+  - Developed a deep trident decomposition network for single license plate image glare removal.
+  - Developed an unsupervised learning model for single image haze removal.
+  - Developed an edge‑preserving image smoothing method.
+
+### Research Assistant ( Sep 2020 - Nov 2020 )
+臻鼎科技股份有限公司
+- Industry‑University Cooperation Projects ：**Health Card Reader**.
+  - Developed a machine learning‑based framework for detecting and analyzing the health level from WeChat app.
+
+### Research Assistant ( Sep 2018 - Aug 2019 )
+遠通電收股份有限公司
+- Industry‑University Cooperation Projects ：**Maintenance Efficiency: False Trigger Detection**.
+  - Developed a machine learning‑based framework for detecting and analyzing the false triggers in electronic toll collection system.
+  - Developed data visualization tools for visualizing the framework in electronic toll collection system.
+
+### Research Assistant ( Jan 2019 - Mar 2019 )
+禾伸堂企業股份有限公司
+- Industry‑University Cooperation Projects ：Health Card Reader.
+  - Design Python programming textbooks.
+  - Design course materials such as object detection, image classification, semantic segmentation...etc.
+
+
 
 
 ## Agreement
