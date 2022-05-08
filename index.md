@@ -26,24 +26,37 @@ My research interests are in the broad area of computer vision, artificial intel
 - Familiar with deep learning frameworks like：TensorFlow、Keras、Scikit Learn.
 - Familiar with deep learning techniques like：CNN、RNN、GAN、DQN、A2C、A3C.
 - Experience with deep learning applications like：
-  - Object Detection & Recognition
-  - Object Localization
-  - Object Classification
+  - Object Detection & Recognition,
+  - Object Localization,
+  - Object Classification,
   - Semantic Segmentation ... and so on.
 
-## Details
-We contribute **Smoke100k** database, a large-scale smoke detection database, which has several appealing properties:
+## Education
+### Doctor of Philosophy - PhD
+Department of Computer Science and Engineering, Yuan Ze University
 
-- **Smoke100k** consists of **100k** synthesized smoke image, smoke free image, smoke mask, and bounding box positions.
+Sep 2018 - Sep 2021
 
-- There are **3** subsets of synthesized smoke images for simulation of different smoldering fires as follows:
-  - _Smoke100k-L_: samples are synthesized by smoke masks selected from the **Low** level with twenty kinds of angles,
-  - _Smoke100k-M_: samples are synthesized by smoke masks selected from the **Middle** level with eight kinds of angles,
-  - _Smoke100k-H_: samples are synthesized by smoke masks selected from the **High** level with fifteen kinds of angles.
+### Bachelor of Science - BS
+Department of Computer Science and Engineering, Yuan Ze University
 
-For more details of the dataset, please refer to the paper [Smoke 100k: A Database for Smoke Detection](https://ieeexplore.ieee.org/document/9015309).
+Sep 2014 - Jun 2018
 
 ## Sample Images
+
+### Journal Articles
+1. B.-H. Chen, S.-T. Ye, J.-L. Yin, **H.-Y. Cheng** and, D. Chen, "Deep Trident Decomposition Network for Single License Plate Image Glare Removal," IEEE Transactions on Intelligent Transportation, 2021. (In press) [[pdf]](https://ieeexplore.ieee.org/document/9357944) [[code]](https://github.com/bigmms/chen_tits21) [[dataset]](https://bigmms.github.io/chen_tits21_dataset/)
+
+2. B.-H. Chen, **H.-Y. Cheng**, Y.-S. Tseng and J.-L. Yin, "Two-Pass Bilateral Smooth Filtering for Remote Sensing Imagery," IEEE Geoscience and Remote Sensing Letters, 2021. (In press)
+
+### Conference Proceedings
+1. B. Chen, **H. Cheng** and J. Yin, "Adaptive Actor-Critic Bilateral Filter," IEEE International Conference on Acoustics, Speech and Signal Processing , pp. 1675-1679, 2022.
+
+2. **H. Cheng**, J. Yin, B. Chen and Z. Yu, "Smoke 100k: A Database for Smoke Detection," IEEE Global Conference on Consumer Electronics, Osaka, Japan, pp. 596-597, 2019.
+
+3. Y. Pan, B. Chen, Z. Lin and **H. Cheng**, "Traffic Collision Detection Using Crowd Voting," International Conference on Information, Communication and Engineering, Xiamen, China, pp. 274-277, 2017.
+
+
 
 ## Download
 
