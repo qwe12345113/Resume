@@ -32,9 +32,9 @@ My research interests are in the broad area of computer vision, artificial intel
   - Semantic Segmentation ... and so on.
 
 ## Education
-### Doctor of Philosophy - PhD
+### Doctor of Philosophy - PhD (Sep 2018 - Sep 2021)
 
-Department of Computer Science and Engineering, Yuan Ze University
+  Department of Computer Science and Engineering, Yuan Ze University
 
 Sep 2018 - Sep 2021
 
