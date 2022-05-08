@@ -16,10 +16,10 @@ My research interests are in the broad area of computer vision, artificial intel
 ## Skill
 
 ### Programming Languages
-- Python (approx. 5+ years experience. Mainly used.)
-- Matlab (approx. 3+ years experience.)
-- C++ (approx. 1+ years experience.)
-- Java (approx. 1+ years experience.)
+- Python (approx. 5+ years experience. Mainly used)
+- Matlab (approx. 3+ years experience)
+- C++ (approx. 1+ years experience)
+- Java (approx. 1+ years experience)
 
 ### Deep Learning
 - Familiar with deep learning frameworks like：TensorFlow、Keras、Scikit Learn.
@@ -115,7 +115,7 @@ StatCounter"></a></div></noscript>
   "description" : "a large-scale benchmark image dataset to train a smoke detector",
   "distribution" : {
     "@type" : "DataDownload",
-    "contentUrl" : "https://bigmms.github.io/cheng_gcce19_smoke100k/"
+    "contentUrl" : "https://qwe12345113.github.io/Resume/"
   },
   "sourceOrganization" : "BigMMS Laboratory",
   "datePublished" : "2020-11-09"
