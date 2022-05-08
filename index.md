@@ -88,7 +88,12 @@ The Multi Media Big Data System Lab, Yuan Ze University
 
 ## Contact
 
-Please contact [Hsiang-Yin Cheng](mailto:qwaszx841002@gmail.com), [Jia-Li Yin](mailto:jlyin@fzu.edu.cn), or [Bo-Hao Chen](mailto:bhchen@saturn.yzu.edu.tw) for questions about the dataset.
+Please contact me on my [email](mailto:qwaszx841002@gmail.com).
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
+<div class="badge-base LI-profile-badge" data-locale="zh_TW" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="joe66-zheng" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tw.linkedin.com/in/joe66-zheng?trk=profile-badge">Joe Zheng</a></div>
+              
 
 
 <!-- Default Statcounter code for cheng_gcce19_smoke100k
