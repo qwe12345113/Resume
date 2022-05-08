@@ -33,6 +33,7 @@ My research interests are in the broad area of computer vision, artificial intel
 
 ## Education
 ### Doctor of Philosophy - PhD
+
 Department of Computer Science and Engineering, Yuan Ze University
 
 Sep 2018 - Sep 2021
@@ -42,7 +43,7 @@ Department of Computer Science and Engineering, Yuan Ze University
 
 Sep 2014 - Jun 2018
 
-## Sample Images
+## Publications
 
 ### Journal Articles
 1. B.-H. Chen, S.-T. Ye, J.-L. Yin, **H.-Y. Cheng** and, D. Chen, "Deep Trident Decomposition Network for Single License Plate Image Glare Removal," IEEE Transactions on Intelligent Transportation, 2021. (In press) [[pdf]](https://ieeexplore.ieee.org/document/9357944) [[code]](https://github.com/bigmms/chen_tits21) [[dataset]](https://bigmms.github.io/chen_tits21_dataset/)
@@ -56,12 +57,10 @@ Sep 2014 - Jun 2018
 
 3. Y. Pan, B. Chen, Z. Lin and **H. Cheng**, "Traffic Collision Detection Using Crowd Voting," International Conference on Information, Communication and Engineering, Xiamen, China, pp. 274-277, 2017. [[pdf]](https://ieeexplore.ieee.org/document/8479158)
 
+## Experience
 
+### Research Assistant
 
-## Download
-
-* Paper [[PDF, 156KB]](https://ieeexplore.ieee.org/document/9015309)
-* Smoke100k [[Google Drive]](https://drive.google.com/drive/folders/1a3C010h7zzNPomMpddb74X3GffZx-R9C?usp=sharing) [[Baidu Drive]](https://pan.baidu.com/s/1viTqeu4rdCK5CtEvtQkFug) (password: ahsz)
 
 ## Agreement
 * The **Smoke100k** dataset is available for non-commercial research purposes only.
@@ -70,20 +69,6 @@ Sep 2014 - Jun 2018
 * You agree not to further copy, publish or distribute any portion of the **Smoke100k** dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
 * The BigMMS Laboratory reserves the right to terminate your access to the **Smoke100k** dataset at any time.
 
-## Citation
-If you find **Smoke100k** useful for your research, please cite our paper:
-
-```
-@INPROCEEDINGS{cheng_gcce19_smoke100k,  
-author={H. {Cheng} and J. {Yin} and B. {Chen} and Z. {Yu}}, 
-booktitle={IEEE 8th Global Conference on Consumer Electronics (GCCE)},   
-title={Smoke 100k: A Database for Smoke Detection},  
-year={2019}, 
-volume={}, 
-number={},  
-pages={596-597}, 
-doi={10.1109/GCCE46687.2019.9015309}}
-```
 
 ## References
 [1] B. C. Russell, A. Torralba, K. P. Murphy, and W. T. Freeman, "Labelme: A database and web-based tool for image annotation," International Journal of Computer Vision (IJCV), vol. 77, no. 1, pp. 157–173, May 2008.
