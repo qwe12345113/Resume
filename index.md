@@ -2,18 +2,36 @@
 layout: default
 ---
 
+
 <!-- ![Branching](./figures/demo.jpg) -->
 
-# News
-* **2020-11-09** Amount of images in each subset of **Smoke100k** are all increased to **40k** now.
-* **2020-01-22** If Google Drive is not accessible, please download the dataset using Baidu Drive.
+# About
 
-## Abstract
+您好，我是鄭翔尹，今年畢業於元智大學資訊工程所博士班。在學期間，發表2篇IEEE國際期刊論文和3篇IEEE國際會議論文；並參與5個研究計畫和3個產學合作計畫。主要的研究方向是電腦視覺，和深度學習；並了解物件偵測，監督與非監督式學習，強化學習...等方面知識。
 
-Due to the complex scenarios and the limited feature information in a single image, a precise smoke detection is much more challenging in practice. Most of previous smoke detection methods either extract textural and spatiotemporal characteristics of smoke or separate the smoke and background components of the image. However, those methods often fail in detecting smoke positions because of the limited feature information within a single image. Moreover, the task of smoke detection can be better achieved if the extra information from collected training dataset is available. One key issue is how to build a training dataset of paired smoke images and ground-truth bounding box positions for end-to-end learning. This paper proposes a large-scale benchmark image dataset to train a smoke detector. With the built dataset, experimental results demonstrate that the discriminative models can be effectively trained as the smoke detector to detect the smoldering fires precisely.
+My name is Cheng Hsiang-Yin. I have passion in computer science. This passion carried me through my education at Yuan-Ze University. My Ph.D. studies have provided me with broad proficiency in the use of computer science engineering methods, techniques, and tools. Alongside this, I experienced computer programmer with academic experience that has published 2 IEEE journal articles, 3 conference articles, and participated in 5 research projects, 3 industry-university cooperation projects.
+
+My research interests are in the broad area of computer vision, artificial intelligence, and image processing. Specifically, I have extensive experience in the following research areas: object recognition and detection, machine learning, deep learning, supervised and unsupervised learning, image super-resolution, and able to write the following specialties languages: Python, Matlab, C++, and Java.
+
+
+## Skill
+
+### Programming Languages
+- Python (approx. 5+ years experience. Mainly used.)
+- Matlab (approx. 3+ years experience.)
+- C++ (approx. 1+ years experience.)
+- Java (approx. 1+ years experience.)
+
+### Deep Learning
+- Familiar with deep learning frameworks like：TensorFlow、Keras、Scikit Learn.
+- Familiar with deep learning techniques like：CNN、RNN、GAN、DQN、A2C、A3C.
+- Experience with deep learning applications like：
+  - Object Detection & Recognition
+  - Object Localization
+  - Object Classification
+  - Semantic Segmentation ... and so on.
 
 ## Details
-
 We contribute **Smoke100k** database, a large-scale smoke detection database, which has several appealing properties:
 
 - **Smoke100k** consists of **100k** synthesized smoke image, smoke free image, smoke mask, and bounding box positions.
@@ -26,8 +44,6 @@ We contribute **Smoke100k** database, a large-scale smoke detection database, wh
 For more details of the dataset, please refer to the paper [Smoke 100k: A Database for Smoke Detection](https://ieeexplore.ieee.org/document/9015309).
 
 ## Sample Images
-
-![Branching](./figures/SampleImages.png)
 
 ## Download
 
