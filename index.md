@@ -59,7 +59,7 @@ Department of Computer Science and Engineering, Yuan Ze University
 
 ### Research Assistant ( Sep 2018 - Sep 2021 )
 The Multi Media Big Data System Lab, Yuan Ze University
-- **3** paper submitted to IEEE TITS, IEEE GRSL and IEEE ICASSP.
+- **3** paper submitted to **IEEE TITS**, **IEEE GRSL**, and **IEEE ICASSP**.
   - Developed a deep trident decomposition network for single license plate image glare removal.
   - Developed an unsupervised learning model for single image haze removal.
   - Developed an edge‑preserving image smoothing method.
@@ -77,7 +77,7 @@ The Multi Media Big Data System Lab, Yuan Ze University
 
 ### Research Assistant ( Jan 2019 - Mar 2019 )
 禾伸堂企業股份有限公司
-- Industry‑University Cooperation Projects ：**Employee Orientation： Python, Data Analysis, and AI**.
+- Industry‑University Cooperation Projects ：**Design the Employee Orientation： Python, Data Analysis, and AI**.
   - Design Python programming textbooks.
   - Design course materials such as object detection, image classification, semantic segmentation...etc.
 
