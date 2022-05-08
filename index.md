@@ -79,7 +79,7 @@ The Multi Media Big Data System Lab, Yuan Ze University
   - Design course materials such as object detection, image classification, semantic segmentation...etc.
 
 ## Honors & Awards
-
+<img src="figures/award1.jpg" alt="Cover" width="20%"/> <img src="figures/award2.png" alt="Cover" width="20%"/> <img src="figures/award3.png" alt="Cover" width="40%"/>
 
 ## Contact
 
