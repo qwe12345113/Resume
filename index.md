@@ -13,7 +13,6 @@ My name is Cheng Hsiang-Yin. I have passion in computer science. This passion ca
 
 My research interests are in the broad area of computer vision, artificial intelligence, and image processing. Specifically, I have extensive experience in the following research areas: object recognition and detection, machine learning, deep learning, supervised and unsupervised learning, image super-resolution, and able to write the following specialties languages: Python, Matlab, C++, and Java.
 
-
 ## Skill
 
 ### Programming Languages
@@ -57,7 +56,7 @@ Department of Computer Science and Engineering, Yuan Ze University
 
 ### Research Assistant ( Sep 2018 - Sep 2021 )
 The Multi Media Big Data System Lab, Yuan Ze University
-- 3 paper submitted to IEEE TITS, IEEE GRSL and IEEE ICASSP.
+- **3** paper submitted to IEEE TITS, IEEE GRSL and IEEE ICASSP.
   - Developed a deep trident decomposition network for single license plate image glare removal.
   - Developed an unsupervised learning model for single image haze removal.
   - Developed an edge‑preserving image smoothing method.
@@ -75,25 +74,12 @@ The Multi Media Big Data System Lab, Yuan Ze University
 
 ### Research Assistant ( Jan 2019 - Mar 2019 )
 禾伸堂企業股份有限公司
-- Industry‑University Cooperation Projects ：Health Card Reader.
+- Industry‑University Cooperation Projects ：employee orientation.
   - Design Python programming textbooks.
   - Design course materials such as object detection, image classification, semantic segmentation...etc.
 
+## Honors & Awards
 
-
-
-## Agreement
-* The **Smoke100k** dataset is available for non-commercial research purposes only.
-* All images of the **Smoke100k** dataset are obtained from the LabelMe dataset [1], NYU dataset [2] which are not property of BigMMS Laboratory, Yuan Ze University. The BigMMS Laboratory is not responsible for the content nor the meaning of these images.
-* You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for any commercial purposes, any portion of the images and any portion of derived data.
-* You agree not to further copy, publish or distribute any portion of the **Smoke100k** dataset. Except, for internal use at a single site within the same organization it is allowed to make copies of the dataset.
-* The BigMMS Laboratory reserves the right to terminate your access to the **Smoke100k** dataset at any time.
-
-
-## References
-[1] B. C. Russell, A. Torralba, K. P. Murphy, and W. T. Freeman, "Labelme: A database and web-based tool for image annotation," International Journal of Computer Vision (IJCV), vol. 77, no. 1, pp. 157–173, May 2008.
-
-[2] P. K. Nathan Silberman, Derek Hoiem and R. Fergus, "Indoor segmentation and support inference from rgbd images," European Conference on Computer Vision (ECCV), 2012.
 
 ## Contact
 
