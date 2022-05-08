@@ -88,7 +88,7 @@ The Multi Media Big Data System Lab, Yuan Ze University
 
 ## Contact
 
-Please contact me on my **[email]**(mailto:qwaszx841002@gmail.com), and following is my Linkedin profile.
+Please contact me on my [email](mailto:qwaszx841002@gmail.com), and following is my Linkedin profile.
 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 
