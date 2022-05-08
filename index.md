@@ -47,14 +47,14 @@ Sep 2014 - Jun 2018
 ### Journal Articles
 1. B.-H. Chen, S.-T. Ye, J.-L. Yin, **H.-Y. Cheng** and, D. Chen, "Deep Trident Decomposition Network for Single License Plate Image Glare Removal," IEEE Transactions on Intelligent Transportation, 2021. (In press) [[pdf]](https://ieeexplore.ieee.org/document/9357944) [[code]](https://github.com/bigmms/chen_tits21) [[dataset]](https://bigmms.github.io/chen_tits21_dataset/)
 
-2. B.-H. Chen, **H.-Y. Cheng**, Y.-S. Tseng and J.-L. Yin, "Two-Pass Bilateral Smooth Filtering for Remote Sensing Imagery," IEEE Geoscience and Remote Sensing Letters, 2021. (In press)
+2. B.-H. Chen, **H.-Y. Cheng**, Y.-S. Tseng and J.-L. Yin, "Two-Pass Bilateral Smooth Filtering for Remote Sensing Imagery," IEEE Geoscience and Remote Sensing Letters, 2021. (In press) [[pdf]](https://ieeexplore.ieee.org/document/9325516) [[code]](https://github.com/bigmms/chen_grsl21_tpbf)
 
 ### Conference Proceedings
-1. B. Chen, **H. Cheng** and J. Yin, "Adaptive Actor-Critic Bilateral Filter," IEEE International Conference on Acoustics, Speech and Signal Processing , pp. 1675-1679, 2022.
+1. B. Chen, **H. Cheng** and J. Yin, "Adaptive Actor-Critic Bilateral Filter," IEEE International Conference on Acoustics, Speech and Signal Processing , pp. 1675-1679, 2022. [[pdf]](https://ieeexplore.ieee.org/document/9746631)
 
-2. **H. Cheng**, J. Yin, B. Chen and Z. Yu, "Smoke 100k: A Database for Smoke Detection," IEEE Global Conference on Consumer Electronics, Osaka, Japan, pp. 596-597, 2019.
+2. **H. Cheng**, J. Yin, B. Chen and Z. Yu, "Smoke 100k: A Database for Smoke Detection," IEEE Global Conference on Consumer Electronics, Osaka, Japan, pp. 596-597, 2019. [[pdf]](https://ieeexplore.ieee.org/document/9015309) [[dataset]](https://bigmms.github.io/cheng_gcce19_smoke100k/)
 
-3. Y. Pan, B. Chen, Z. Lin and **H. Cheng**, "Traffic Collision Detection Using Crowd Voting," International Conference on Information, Communication and Engineering, Xiamen, China, pp. 274-277, 2017.
+3. Y. Pan, B. Chen, Z. Lin and **H. Cheng**, "Traffic Collision Detection Using Crowd Voting," International Conference on Information, Communication and Engineering, Xiamen, China, pp. 274-277, 2017. [[pdf]](https://ieeexplore.ieee.org/document/8479158)
 
 
 
