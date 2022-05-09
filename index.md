@@ -56,8 +56,8 @@ Department of Computer Science and Engineering, Yuan Ze University
 - Java (approx. 1+ years experience)
 
 ### Deep Learning
-- Familiar with deep learning frameworks like：TensorFlow、Keras、Scikit Learn.
-- Familiar with deep learning techniques like：CNN、RNN、GAN、DQN、A2C、A3C.
+- Familiar with deep learning frameworks like：TensorFlow, Keras, Scikit Learn.
+- Familiar with deep learning techniques like：CNN, RNN, GAN, DQN, A2C, A3C.
 - Experience with deep learning applications like：
   - Object Detection & Recognition,
   - Object Localization,
