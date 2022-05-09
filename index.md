@@ -92,10 +92,13 @@ The Multi Media Big Data System Lab, Yuan Ze University
 
 ## Contact
 
-Please contact me on my email：[qwaszx841002@gmail.com](mailto:qwaszx841002@gmail.com).
-Here is my [Linkedin profile](http://www.linkedin.com/in/joe66-zheng) and [github page](https://github.com/qwe12345113).
+Please contact me on my Email：[qwaszx841002@gmail.com](mailto:qwaszx841002@gmail.com).
 
-I am very grateful for taking the time to read my resume.
+<!-- * Follow me on [Linkedin profile](http://www.linkedin.com/in/joe66-zheng) and [github page](https://github.com/qwe12345113). -->
+
+[![image](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](http://www.linkedin.com/in/joe66-zheng)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/qwe12345113)
+
 
 <!-- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> -->
 
