@@ -88,7 +88,7 @@ Department of Computer Science and Engineering, Yuan Ze University
   - Toeic：700 
 
 ## Contact
-Please contact me on my Email：[qwaszx841002@gmail.com](mailto:qwaszx841002@gmail.com).
+Please contact me on my Email：[qwaszx841002@gmail.com](mailto:qwaszx841002@gmail.com)
 
 <!-- * Follow me on [Linkedin profile](http://www.linkedin.com/in/joe66-zheng) and [github page](https://github.com/qwe12345113). -->
 
