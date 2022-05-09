@@ -16,7 +16,7 @@ My research interests are in the broad area of computer vision, artificial intel
 
 您好，我是鄭翔尹，畢業於元智大學資訊工程所博士班。在學期間，發表2篇 IEEE 國際期刊論文和3篇 IEEE 國際會議論文；並參與3個產學合作計畫。主要的研究方向是電腦視覺，和深度學習；並了解物件偵測，監督與非監督式學習，強化學習...等方面知識。
 
-## Work & intership Experience
+## Work & Intership Experience
 ### Research Assistant ( Sep 2018 - Sep 2021 )
 The Multi Media Big Data System Lab, Yuan Ze University
 - **3** paper submitted to **IEEE TITS**, **IEEE GRSL**, and **IEEE ICASSP**.
