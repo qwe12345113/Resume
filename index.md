@@ -85,7 +85,7 @@ Department of Computer Science and Engineering, Yuan Ze University
 ## language
 - Chinese：Native or bilingual proficiency
 - English：Professional working proficiency
- - Toeic：700 
+  - Toeic：700 
 
 ## Contact
 Please contact me on my Email：[qwaszx841002@gmail.com](mailto:qwaszx841002@gmail.com).
