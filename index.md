@@ -50,7 +50,7 @@ Department of Computer Science and Engineering, Yuan Ze University
 
 ## Skill
 ### Programming Languages
-- Python (approx. 5+ years experience. Mainly used)
+- Python (approx. 5+ years experience) (Mainly used)
 - Matlab (approx. 3+ years experience)
 - C++ (approx. 1+ years experience)
 - Java (approx. 1+ years experience)
