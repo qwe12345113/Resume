@@ -16,8 +16,15 @@ My research interests are in the broad area of computer vision, artificial intel
 
 您好，我是鄭翔尹，今年畢業於元智大學資訊工程所博士班。在學期間，發表2篇 IEEE 國際期刊論文和3篇 IEEE 國際會議論文；並參與3個產學合作計畫。主要的研究方向是電腦視覺，和深度學習；並了解物件偵測，監督與非監督式學習，強化學習...等方面知識。
 
-## Skill
+## Education
+### Doctor of Philosophy ( Sep 2018 - Sep 2021 )
+Department of Computer Science and Engineering, Yuan Ze University
 
+### Bachelor of Science ( Sep 2014 - Jun 2018 )
+Department of Computer Science and Engineering, Yuan Ze University
+
+
+## Skill
 ### Programming Languages
 - Python (approx. 5+ years experience. Mainly used)
 - Matlab (approx. 3+ years experience)
@@ -33,16 +40,7 @@ My research interests are in the broad area of computer vision, artificial intel
   - Object Classification,
   - Semantic Segmentation ... and so on.
 
-## Education
-### Doctor of Philosophy ( Sep 2018 - Sep 2021 )
-Department of Computer Science and Engineering, Yuan Ze University
-
-### Bachelor of Science ( Sep 2014 - Jun 2018 )
-Department of Computer Science and Engineering, Yuan Ze University
-
-
 ## Publications
-
 ### Journal Articles
 1. B.-H. Chen, S.-T. Ye, J.-L. Yin, **H.-Y. Cheng** and, D. Chen, "Deep Trident Decomposition Network for Single License Plate Image Glare Removal," IEEE Transactions on Intelligent Transportation, 2021. (In press) [[pdf]](https://ieeexplore.ieee.org/document/9357944) [[code]](https://github.com/bigmms/chen_tits21) [[dataset]](https://bigmms.github.io/chen_tits21_dataset/)
 
@@ -56,7 +54,6 @@ Department of Computer Science and Engineering, Yuan Ze University
 3. Y. Pan, B. Chen, Z. Lin and **H. Cheng**, "Traffic Collision Detection Using Crowd Voting," International Conference on Information, Communication and Engineering, Xiamen, China, pp. 274-277, 2017. [[pdf]](https://ieeexplore.ieee.org/document/8479158)
 
 ## Experience
-
 ### Research Assistant ( Sep 2018 - Sep 2021 )
 The Multi Media Big Data System Lab, Yuan Ze University
 - **3** paper submitted to **IEEE TITS**, **IEEE GRSL**, and **IEEE ICASSP**.
@@ -91,7 +88,6 @@ The Multi Media Big Data System Lab, Yuan Ze University
 - English：Professional working proficiency
 
 ## Contact
-
 Please contact me on my Email：[qwaszx841002@gmail.com](mailto:qwaszx841002@gmail.com).
 
 <!-- * Follow me on [Linkedin profile](http://www.linkedin.com/in/joe66-zheng) and [github page](https://github.com/qwe12345113). -->
