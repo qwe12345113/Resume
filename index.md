@@ -86,6 +86,10 @@ The Multi Media Big Data System Lab, Yuan Ze University
 
 <a href="https://github.com/qwe12345113/Resume/blob/main/figures/ICICE.pdf" title=""><img src="figures/ICICE.jpg" alt="Cover" width="20%"/></a> <a href="https://github.com/qwe12345113/Resume/blob/main/figures/toeic.pdf" title=""><img src="figures/toeic.jpg" alt="Cover" width="20%"/></a> <a href="https://github.com/qwe12345113/Resume/blob/main/figures/award2.png" title=""><img src="figures/award2.png" alt="Cover" width="20%"/></a> <a href="https://github.com/qwe12345113/Resume/blob/main/figures/award1.jpg" title=""><img src="figures/award1.jpg" alt="Cover" width="20%"/></a>
 
+## language
+- Chinese：Native or bilingual proficiency
+- English：Professional working proficiency
+
 ## Contact
 
 Please contact me on my [email](mailto:qwaszx841002@gmail.com), and here is my [Linkedin profile](http://www.linkedin.com/in/joe66-zheng) and my [github page](https://github.com/qwe12345113).
