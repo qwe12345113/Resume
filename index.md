@@ -16,13 +16,37 @@ My research interests are in the broad area of computer vision, artificial intel
 
 您好，我是鄭翔尹，畢業於元智大學資訊工程所博士班。在學期間，發表2篇 IEEE 國際期刊論文和3篇 IEEE 國際會議論文；並參與3個產學合作計畫。主要的研究方向是電腦視覺，和深度學習；並了解物件偵測，監督與非監督式學習，強化學習...等方面知識。
 
+## Work & intership Experience
+### Research Assistant ( Sep 2018 - Sep 2021 )
+The Multi Media Big Data System Lab, Yuan Ze University
+- **3** paper submitted to **IEEE TITS**, **IEEE GRSL**, and **IEEE ICASSP**.
+  - Developed a deep trident decomposition network for single license plate image glare removal.
+  - Developed an unsupervised learning model for single image haze removal.
+  - Developed an edge‑preserving image smoothing method.
+
+### Research Assistant ( Sep 2020 - Nov 2020 )
+臻鼎科技股份有限公司
+- Industry‑University Cooperation Projects ：**Health Card Reader**.
+  - Developed a machine learning‑based framework for detecting and analyzing the health level from WeChat app.
+
+### Research Assistant ( Sep 2018 - Aug 2019 )
+遠通電收股份有限公司
+- Industry‑University Cooperation Projects ：**Maintenance Efficiency: False Trigger Detection**.
+  - Developed a machine learning‑based framework for detecting and analyzing the false triggers in electronic toll collection system.
+  - Developed data visualization tools for visualizing the framework in electronic toll collection system.
+
+### Research Assistant ( Jan 2019 - Mar 2019 )
+禾伸堂企業股份有限公司
+- Industry‑University Cooperation Projects ：**Design the Employee Orientation： Python, Data Analysis, and AI**.
+  - Designed Python programming textbooks.
+  - Designed course materials such as object detection, image classification, semantic segmentation...etc.
+
 ## Education
 ### Doctor of Philosophy ( Sep 2018 - Sep 2021 )
 Department of Computer Science and Engineering, Yuan Ze University
 
 ### Bachelor of Science ( Sep 2014 - Jun 2018 )
 Department of Computer Science and Engineering, Yuan Ze University
-
 
 ## Skill
 ### Programming Languages
@@ -52,31 +76,6 @@ Department of Computer Science and Engineering, Yuan Ze University
 2. **H. Cheng**, J. Yin, B. Chen and Z. Yu, "Smoke 100k: A Database for Smoke Detection," IEEE Global Conference on Consumer Electronics, Osaka, Japan, pp. 596-597, 2019. [[pdf]](https://ieeexplore.ieee.org/document/9015309) [[dataset]](https://bigmms.github.io/cheng_gcce19_smoke100k/)
 
 3. Y. Pan, B. Chen, Z. Lin and **H. Cheng**, "Traffic Collision Detection Using Crowd Voting," International Conference on Information, Communication and Engineering, Xiamen, China, pp. 274-277, 2017. [[pdf]](https://ieeexplore.ieee.org/document/8479158)
-
-## Experience
-### Research Assistant ( Sep 2018 - Sep 2021 )
-The Multi Media Big Data System Lab, Yuan Ze University
-- **3** paper submitted to **IEEE TITS**, **IEEE GRSL**, and **IEEE ICASSP**.
-  - Developed a deep trident decomposition network for single license plate image glare removal.
-  - Developed an unsupervised learning model for single image haze removal.
-  - Developed an edge‑preserving image smoothing method.
-
-### Research Assistant ( Sep 2020 - Nov 2020 )
-臻鼎科技股份有限公司
-- Industry‑University Cooperation Projects ：**Health Card Reader**.
-  - Developed a machine learning‑based framework for detecting and analyzing the health level from WeChat app.
-
-### Research Assistant ( Sep 2018 - Aug 2019 )
-遠通電收股份有限公司
-- Industry‑University Cooperation Projects ：**Maintenance Efficiency: False Trigger Detection**.
-  - Developed a machine learning‑based framework for detecting and analyzing the false triggers in electronic toll collection system.
-  - Developed data visualization tools for visualizing the framework in electronic toll collection system.
-
-### Research Assistant ( Jan 2019 - Mar 2019 )
-禾伸堂企業股份有限公司
-- Industry‑University Cooperation Projects ：**Design the Employee Orientation： Python, Data Analysis, and AI**.
-  - Designed Python programming textbooks.
-  - Designed course materials such as object detection, image classification, semantic segmentation...etc.
 
 ## Honors & Awards
 <a href="https://github.com/qwe12345113/Resume/blob/main/figures/gcce.jpg" title=""><img src="figures/gcce.jpg" alt="Cover" width="40%"/></a> <a href="https://github.com/qwe12345113/Resume/blob/main/figures/award3.png" title=""><img src="figures/award3.png" alt="Cover" width="38%"/></a>
