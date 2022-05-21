@@ -83,7 +83,7 @@ Department of Computer Science and Engineering, Yuan Ze University
 <a href="https://github.com/qwe12345113/Resume/blob/main/figures/ICICE.pdf" title=""><img src="figures/ICICE.jpg" alt="Cover" width="20%"/></a> <a href="https://github.com/qwe12345113/Resume/blob/main/figures/toeic.pdf" title=""><img src="figures/toeic.jpg" alt="Cover" width="20%"/></a> <a href="https://github.com/qwe12345113/Resume/blob/main/figures/award2.png" title=""><img src="figures/award2.png" alt="Cover" width="20%"/></a> <a href="https://github.com/qwe12345113/Resume/blob/main/figures/award1.jpg" title=""><img src="figures/award1.jpg" alt="Cover" width="20%"/></a>
 
 ## language
-- Chinese：Native or bilingual proficiency
+- Chinese：Native proficiency
 - English：Professional working proficiency
   - Toeic：700 
 
