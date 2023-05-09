@@ -66,16 +66,18 @@ Department of Computer Science and Engineering, Yuan Ze University
 
 ## Publications
 ### Journal Articles
-1. B.-H. Chen, S.-T. Ye, J.-L. Yin, **H.-Y. Cheng** and, D. Chen, "Deep Trident Decomposition Network for Single License Plate Image Glare Removal," IEEE Transactions on Intelligent Transportation, 2021. (In press) [[pdf]](https://ieeexplore.ieee.org/document/9357944) [[code]](https://github.com/bigmms/chen_tits21) [[dataset]](https://bigmms.github.io/chen_tits21_dataset/)
+1. B. -H. Chen, S. Ye, J. -L. Yin, **H. -Y. Cheng** and D. Chen, "Deep Trident Decomposition Network for Single License Plate Image Glare Removal," in IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 7, pp. 6596-6607, July 2022. [[pdf]](https://ieeexplore.ieee.org/document/9357944) [[code]](https://github.com/bigmms/chen_tits21) [[dataset]](https://bigmms.github.io/chen_tits21_dataset/)
 
-2. B.-H. Chen, **H.-Y. Cheng**, Y.-S. Tseng and J.-L. Yin, "Two-Pass Bilateral Smooth Filtering for Remote Sensing Imagery," IEEE Geoscience and Remote Sensing Letters, 2021. (In press) [[pdf]](https://ieeexplore.ieee.org/document/9325516) [[code]](https://github.com/bigmms/chen_grsl21_tpbf)
+2. B. -H. Chen, **H. -Y. Cheng**, Y. -S. Tseng and J. -L. Yin, "Two-Pass Bilateral Smooth Filtering for Remote Sensing Imagery," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022. [[pdf]](https://ieeexplore.ieee.org/document/9325516) [[code]](https://github.com/bigmms/chen_grsl21_tpbf)
 
 ### Conference Proceedings
-1. B. Chen, **H. Cheng** and J. Yin, "Adaptive Actor-Critic Bilateral Filter," IEEE International Conference on Acoustics, Speech and Signal Processing , pp. 1675-1679, 2022. [[pdf]](https://ieeexplore.ieee.org/document/9746631)
+1. Y. -J. Chen, Y. -C. Wang, B. -H. Chen, **H. -Y. Cheng** and J. -L. Yin, "Actor-Critic Bilateral Filter for Noise-Robust Image Smoothing," 2022 IEEE International Symposium on Multimedia (ISM), Italy, 2022, pp. 273-277. [[pdf]](https://ieeexplore.ieee.org/document/10019656)
 
-2. **H. Cheng**, J. Yin, B. Chen and Z. Yu, "Smoke 100k: A Database for Smoke Detection," IEEE Global Conference on Consumer Electronics, Osaka, Japan, pp. 596-597, 2019. [[pdf]](https://ieeexplore.ieee.org/document/9015309) [[dataset]](https://bigmms.github.io/cheng_gcce19_smoke100k/)
+2. B. Chen, **H. Cheng** and J. Yin, "Adaptive Actor-Critic Bilateral Filter," ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore, Singapore, 2022, pp. 1675-1679. [[pdf]](https://ieeexplore.ieee.org/document/9746631)
 
-3. Y. Pan, B. Chen, Z. Lin and **H. Cheng**, "Traffic Collision Detection Using Crowd Voting," International Conference on Information, Communication and Engineering, Xiamen, China, pp. 274-277, 2017. [[pdf]](https://ieeexplore.ieee.org/document/8479158)
+3. **H. -Y. Cheng**, J. -L. Yin, B. -H. Chen and Z. -M. Yu, "Smoke 100k: A Database for Smoke Detection," 2019 IEEE 8th Global Conference on Consumer Electronics (GCCE), Osaka, Japan, 2019. [[pdf]](https://ieeexplore.ieee.org/document/9015309) [[dataset]](https://bigmms.github.io/cheng_gcce19_smoke100k/)
+
+4. Y. Pan, B. Chen, Z. Lin and **H. Cheng**, "Traffic Collision Detection Using Crowd Voting," International Conference on Information, Communication and Engineering, Xiamen, China, pp. 274-277, 2017. [[pdf]](https://ieeexplore.ieee.org/document/8479158)
 
 ## Honors & Awards
 <a href="https://github.com/qwe12345113/Resume/blob/main/figures/gcce.jpg" title=""><img src="figures/gcce.jpg" alt="Cover" width="40%"/></a> <a href="https://github.com/qwe12345113/Resume/blob/main/figures/award3.png" title=""><img src="figures/award3.png" alt="Cover" width="38%"/></a>
