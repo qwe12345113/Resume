@@ -6,23 +6,24 @@ layout: default
 <!-- ![Branching](./figures/demo.jpg) -->
 
 # About
-<img alt="" src="figures/photo.JPG" style=" float:left ; margin:10px " width="21%">My name is Joe. I have passion in computer science. This passion carried me through my education at Yuan-Ze University. My Ph.D. studies have provided me with broad proficiency in the use of computer science and engineering methods, techniques, and tools. Alongside this, I experienced computer programmer with academic experience that has published 2 IEEE journal articles, 3 conference articles, and participated in 3 industry-university cooperation projects. <br clear="left">
+<img alt="" src="figures/photo.JPG" style=" float:left ; margin:10px " width="21%">My name is Cheng Hsiang-Yin. I obtained my Ph.D. from Yuan Ze University in 2021. My research interests are in the broad area of artificial intelligence, deep learning, computer vision, and image processing. Specifically, I have extensive experience in the following research areas: object recognition and detection, supervised and unsupervised learning, reinforcement learning. My Ph.D. studies have experienced computer programmer with academic experience that has published 2 IEEE journal articles, 4 conference articles, and participated in 5 research projects, 3 industry-university cooperation projects. <br clear="left">
+
+您好，我是鄭翔尹，畢業於元智大學資訊工程所博士班。在學期間，發表2篇 IEEE 國際期刊論文和4篇 IEEE 國際會議論文；並參與3個產學合作計畫。主要的研究方向是電腦視覺，和深度學習；並了解物件偵測，監督與非監督式學習，強化學習...等方面知識。
 
 <!-- 您好，我是鄭翔尹，畢業於元智大學資訊工程所博士班。在學期間，發表2篇 IEEE 國際期刊論文和3篇 IEEE 國際會議論文；並參與3個產學合作計畫。主要的研究方向是電腦視覺，和深度學習；並了解物件偵測，監督與非監督式學習，強化學習...等方面知識。 -->
 
 <!-- I am Joe from Taiwan. I have passion in computer science. This passion carried me through my education at Yuan-Ze University. My Ph.D. studies have provided me with broad proficiency in the use of computer science engineering methods, techniques, and tools. Alongside this, I experienced computer programmer with academic experience that has published 2 IEEE journal articles, 3 conference articles, and participated in 3 industry-university cooperation projects.
  -->
-My research interests are in the broad area of computer vision, artificial intelligence, and image processing. Specifically, I have extensive experience in the following research areas: object recognition and detection, machine learning, deep learning, supervised and unsupervised learning, image super-resolution, and able to write the following specialties languages: Python, Matlab, C++, and Java.
-
-您好，我是鄭翔尹，畢業於元智大學資訊工程所博士班。在學期間，發表2篇 IEEE 國際期刊論文和3篇 IEEE 國際會議論文；並參與3個產學合作計畫。主要的研究方向是電腦視覺，和深度學習；並了解物件偵測，監督與非監督式學習，強化學習...等方面知識。
+<!--My name is Joe. I have passion in computer science. This passion carried me through my education at Yuan-Ze University. My Ph.D. studies have provided me with broad proficiency in the use of computer science and engineering methods, techniques, and tools. Alongside this, I experienced computer programmer with academic experience that has published 2 IEEE journal articles, 3 conference articles, and participated in 3 industry-university cooperation projects.
+My research interests are in the broad area of computer vision, artificial intelligence, and image processing. Specifically, I have extensive experience in the following research areas: object recognition and detection, machine learning, deep learning, supervised and unsupervised learning, image super-resolution, and able to write the following specialties languages: Python, Matlab, C++, and Java.-->
 
 ## Work & Intership Experience
 ### Research Assistant ( Sep 2018 - Sep 2021 )
 The Multi Media Big Data System Lab, Yuan Ze University
-- **3** paper submitted to **IEEE TITS**, **IEEE GRSL**, and **IEEE ICASSP**.
+- Published **2** IEEE journal articles, **4** conference articles.
   - Developed a deep trident decomposition network for single license plate image glare removal.
-  - Developed an unsupervised learning model for single image haze removal.
-  - Developed an edge‑preserving image smoothing method.
+  - Developed an image smoothing method for remote sensing imagery and noise-robust image smoothing.
+  - Collected large-scale smoke detection database and sun glare image dataset.
 
 ### Research Assistant ( Sep 2020 - Nov 2020 )
 臻鼎科技股份有限公司
@@ -56,10 +57,11 @@ Department of Computer Science and Engineering, Yuan Ze University
 - Java (approx. 1+ years experience)
 
 ### Deep Learning
-- Familiar with deep learning frameworks like：TensorFlow, Keras, Scikit Learn.
+- Familiar with deep learning frameworks like：TensorFlow, Keras, Pytorch.
 - Familiar with deep learning techniques like：CNN, RNN, GAN, DQN, A2C, A3C.
 - Experience with deep learning applications like：
-  - Object Detection & Recognition,
+  - Object Detection,
+  - Object Recognition
   - Object Localization,
   - Object Classification,
   - Semantic Segmentation ... and so on.
