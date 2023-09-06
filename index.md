@@ -61,8 +61,7 @@ Department of Computer Science and Engineering, Yuan Ze University
 - Familiar with deep learning techniques like：CNN, RNN, GAN, DQN, A2C, A3C.
 - Experience with deep learning applications like：
   - Object Detection,
-  - Object Recognition
-  - Object Localization,
+  - Object Recognition,
   - Object Classification,
   - Semantic Segmentation ... and so on.
 
