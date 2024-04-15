@@ -6,12 +6,14 @@ layout: default
 <!-- ![Branching](./figures/demo.jpg) -->
 
 # About
-<img alt="" src="figures/IMAG0206-1.jpg" style=" float:left ; margin:10px " width="21%">My name is Cheng Hsiang-Yin. I obtained my Ph.D. from Yuan Ze University in 2021. My research interests are in the broad area of artificial intelligence, deep learning, computer vision, and image processing. Specifically, I have extensive experience in the following research areas: object recognition and detection, supervised and unsupervised learning, reinforcement learning. My Ph.D. studies have experienced computer programmer with academic experience that has published 2 IEEE journal articles, 4 conference articles, and participated in 5 research projects, 3 industry-university cooperation projects. <br clear="left">
+<img alt="" src="figures/IMAG0206-1.jpg" style=" float:left ; margin:10px " width="21%">My name is **Cheng Hsiang-Yin**. I obtained my Ph.D. from Yuan Ze University in 2021. My research interests are in the broad area of **artificial intelligence**, **deep learning**, **computer vision**, and **image processing**. Specifically, I have extensive experience in the following research areas: object recognition and detection, supervised and unsupervised learning, reinforcement learning. My Ph.D. studies have experienced computer programmer with academic experience that has published 2 IEEE journal articles, 4 conference articles. <br clear="left">
+
+Currently working as a **Senior Engineer** in the Automotive Systems Department of **Retronix** Technologies, Inc. and is responsible for developing AI-based ADAS applications on the **#Renesas R-Car V3H SoC**. We have completed the following **ADAS** projects: Driving behavior detection, FaceID system...and so on.
+
+<!-- <img alt="" src="figures/IMAG0206-1.jpg" style=" float:left ; margin:10px " width="21%">My name is **Cheng Hsiang-Yin**. I obtained my Ph.D. from Yuan Ze University in 2021. My research interests are in the broad area of artificial intelligence, deep learning, computer vision, and image processing. Specifically, I have extensive experience in the following research areas: object recognition and detection, supervised and unsupervised learning, reinforcement learning. My Ph.D. studies have experienced computer programmer with academic experience that has published 2 IEEE journal articles, 4 conference articles, and participated in 5 research projects, 3 industry-university cooperation projects. <br clear="left"> -->
 
 <!-- 您好，我是鄭翔尹，畢業於元智大學資訊工程所博士班。在學期間，發表2篇 IEEE 國際期刊論文和4篇 IEEE 國際會議論文；並參與3個產學合作計畫。主要的研究方向是電腦視覺，和深度學習；並了解物件偵測，監督與非監督式學習，強化學習...等方面知識。 -->
-Currently working as a Senior Engineer in the Automotive Systems Department of Retronix Technologies, Inc. and is responsible for developing AI-based ADAS applications on the CNNIP hardware accelerator of #Renesas R-Car V3H SoC. We have completed the following projects: Driving behavior detection, FaceID system...and so on.
 
-<!-- 您好，我是鄭翔尹，畢業於元智大學資訊工程所博士班。在學期間，發表2篇 IEEE 國際期刊論文和3篇 IEEE 國際會議論文；並參與3個產學合作計畫。主要的研究方向是電腦視覺，和深度學習；並了解物件偵測，監督與非監督式學習，強化學習...等方面知識。 -->
 
 <!-- I am Joe from Taiwan. I have passion in computer science. This passion carried me through my education at Yuan-Ze University. My Ph.D. studies have provided me with broad proficiency in the use of computer science engineering methods, techniques, and tools. Alongside this, I experienced computer programmer with academic experience that has published 2 IEEE journal articles, 3 conference articles, and participated in 3 industry-university cooperation projects.
  -->
@@ -19,6 +21,17 @@ Currently working as a Senior Engineer in the Automotive Systems Department of R
 My research interests are in the broad area of computer vision, artificial intelligence, and image processing. Specifically, I have extensive experience in the following research areas: object recognition and detection, machine learning, deep learning, supervised and unsupervised learning, image super-resolution, and able to write the following specialties languages: Python, Matlab, C++, and Java.-->
 
 ## Work & Intership Experience
+### Senior Engineer ( Jun 2022 - Present )
+瑞相科技股份有限公司
+
+- Responsible for developing **AI-based ADAS applications** on the CNNIP hardware accelerator of **#Renesas R-Car V3H SoC**.
+  - Driver Monitoring System.
+  - Face Recognition System.
+  - Traffic Light Detection System.
+  - Traffic Sign Detection System.
+  - Parking Slot Detection System.
+  - Blind Spot Detection System.
+ 
 ### Research Assistant ( Sep 2018 - Sep 2021 )
 The Multi Media Big Data System Lab, Yuan Ze University
 - Published **2** IEEE journal articles, **4** conference articles.
@@ -52,10 +65,10 @@ Department of Computer Science and Engineering, Yuan Ze University
 
 ## Skill
 ### Programming Languages
-- Python (approx. 5+ years experience) (Mainly used)
-- Matlab (approx. 3+ years experience)
-- C++ (approx. 1+ years experience)
-- Java (approx. 1+ years experience)
+- Python (Mainly used)
+- Matlab
+- C++
+- Java
 
 ### Deep Learning
 - Familiar with deep learning frameworks like：TensorFlow, Keras, Pytorch.
