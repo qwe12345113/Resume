@@ -8,7 +8,8 @@ layout: default
 # About
 <img alt="" src="figures/photo.JPG" style=" float:left ; margin:10px " width="21%">My name is Cheng Hsiang-Yin. I obtained my Ph.D. from Yuan Ze University in 2021. My research interests are in the broad area of artificial intelligence, deep learning, computer vision, and image processing. Specifically, I have extensive experience in the following research areas: object recognition and detection, supervised and unsupervised learning, reinforcement learning. My Ph.D. studies have experienced computer programmer with academic experience that has published 2 IEEE journal articles, 4 conference articles, and participated in 5 research projects, 3 industry-university cooperation projects. <br clear="left">
 
-您好，我是鄭翔尹，畢業於元智大學資訊工程所博士班。在學期間，發表2篇 IEEE 國際期刊論文和4篇 IEEE 國際會議論文；並參與3個產學合作計畫。主要的研究方向是電腦視覺，和深度學習；並了解物件偵測，監督與非監督式學習，強化學習...等方面知識。
+<!-- 您好，我是鄭翔尹，畢業於元智大學資訊工程所博士班。在學期間，發表2篇 IEEE 國際期刊論文和4篇 IEEE 國際會議論文；並參與3個產學合作計畫。主要的研究方向是電腦視覺，和深度學習；並了解物件偵測，監督與非監督式學習，強化學習...等方面知識。 -->
+Currently working as a Senior Engineer in the Automotive Systems Department of Retronix Technologies, Inc. and is responsible for developing AI-based ADAS applications on the CNNIP hardware accelerator of #Renesas R-Car V3H SoC. We have completed the following projects: Driving behavior detection, FaceID system...and so on.
 
 <!-- 您好，我是鄭翔尹，畢業於元智大學資訊工程所博士班。在學期間，發表2篇 IEEE 國際期刊論文和3篇 IEEE 國際會議論文；並參與3個產學合作計畫。主要的研究方向是電腦視覺，和深度學習；並了解物件偵測，監督與非監督式學習，強化學習...等方面知識。 -->
 
