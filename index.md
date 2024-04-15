@@ -6,7 +6,7 @@ layout: default
 <!-- ![Branching](./figures/demo.jpg) -->
 
 # About
-<img alt="" src="figures/IMAG0206-1.jpg" style=" float:left ; margin:10px " width="21%">My name is **Cheng Hsiang-Yin**. I obtained my Ph.D. from Yuan Ze University in 2021. My research interests are in the broad area of **artificial intelligence**, **deep learning**, **computer vision**, and **image processing**. Specifically, I have extensive experience in the following research areas: object recognition and detection, supervised and unsupervised learning, reinforcement learning. My Ph.D. studies have experienced computer programmer with academic experience that has published 2 IEEE journal articles, 4 conference articles. <br clear="left">
+<img alt="" src="figures/IMAG0206-1.jpg" style=" float:left ; margin:20px " width="30%">My name is **Cheng Hsiang-Yin**. I obtained my Ph.D. from Yuan Ze University in 2021. My research interests are in the broad area of **artificial intelligence**, **deep learning**, **computer vision**, and **image processing**. Specifically, I have extensive experience in the following research areas: object recognition and detection, supervised and unsupervised learning, reinforcement learning. My Ph.D. studies have experienced computer programmer with academic experience that has published 2 IEEE journal articles, 4 conference articles. <br clear="left">
 
 Currently working as a **Senior Engineer** in the Automotive Systems Department of **Retronix** Technologies, Inc. and is responsible for developing AI-based ADAS applications on the **#Renesas R-Car V3H SoC**. We have completed the following **ADAS** projects: Driving behavior detection, FaceID system...and so on.
 
