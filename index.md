@@ -50,9 +50,9 @@ The Multi Media Big Data System Lab, Yuan Ze University
 
 ### Research Assistant ( Jan 2019 - Mar 2019 )
 禾伸堂企業股份有限公司
-- Industrial/Academic Cooperation Project ：**Design the Employee Orientation： Python, Data Analysis, and AI**.
+- Industrial/Academic Cooperation Project ：**Employee Orientation Design： Python, Data Analysis, and AI**.
   - Designed Python programming textbooks.
-  - Designed course materials such as object detection, image classification, semantic segmentation...etc.
+  - Designed AI course materials such as object detection, image classification, semantic segmentation...etc.
 
 ## Academic Background
 ### Doctor of Philosophy ( Sep 2018 - Sep 2021 )
