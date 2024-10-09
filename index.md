@@ -54,12 +54,14 @@ The Multi Media Big Data System Lab, Yuan Ze University
   - Designed Python programming textbooks.
   - Designed course materials such as object detection, image classification, semantic segmentation...etc.
 
-## Education
+## Academic Background
 ### Doctor of Philosophy ( Sep 2018 - Sep 2021 )
-Department of Computer Science and Engineering, Yuan Ze University
+Department of Computer Science and Engineering, Yuan Ze University, Taoyuan, Taiwan
+Dissertation title : Trustable AI: A Study on Noise-Tolerant Image Filters for Edge-preserving Smoothing
+Overall GPA 3.71/4.0
 
 ### Bachelor of Science ( Sep 2014 - Jun 2018 )
-Department of Computer Science and Engineering, Yuan Ze University
+Department of Computer Science and Engineering, Yuan Ze University, Taoyuan, Taiwan
 
 ## Skill
 ### Programming Languages
