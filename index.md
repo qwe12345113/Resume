@@ -22,7 +22,7 @@ My research interests are in the broad area of computer vision, artificial intel
 
 ## Work & Intership Experience
 ### Senior Engineer ( Jun 2022 - Present )
-瑞相科技股份有限公司
+Retronix Technologies, Inc
 
 - Responsible for developing **AI-based ADAS applications** on the CNNIP hardware accelerator of **#Renesas R-Car V3H SoC**.
   - Driver Monitoring System with FaceID system. [[demo video]](https://www.linkedin.com/posts/jonastsai_renesas-retronix-renesas-activity-7105850574679527424-aQfD?utm_source=share&utm_medium=member_android)
@@ -57,8 +57,8 @@ The Multi Media Big Data System Lab, Yuan Ze University
 ## Academic Background
 ### Doctor of Philosophy ( Sep 2018 - Sep 2021 )
 Department of Computer Science and Engineering, Yuan Ze University, Taoyuan, Taiwan
-Dissertation title : Trustable AI: A Study on Noise-Tolerant Image Filters for Edge-preserving Smoothing
-Overall GPA 3.71/4.0
+- Dissertation title : Trustable AI: A Study on Noise-Tolerant Image Filters for Edge-preserving Smoothing
+- Overall GPA 3.71/4.0
 
 ### Bachelor of Science ( Sep 2014 - Jun 2018 )
 Department of Computer Science and Engineering, Yuan Ze University, Taoyuan, Taiwan
@@ -83,7 +83,7 @@ Department of Computer Science and Engineering, Yuan Ze University, Taoyuan, Tai
 ### Journal Articles
 1. B. -H. Chen, S. Ye, J. -L. Yin, **H. -Y. Cheng** and D. Chen, "Deep Trident Decomposition Network for Single License Plate Image Glare Removal," in IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 7, pp. 6596-6607, July 2022. [[pdf]](https://ieeexplore.ieee.org/document/9357944) [[code]](https://github.com/bigmms/chen_tits21) [[dataset]](https://bigmms.github.io/chen_tits21_dataset/)
 
-2. B. -H. Chen, **H. -Y. Cheng**, Y. -S. Tseng and J. -L. Yin, "Two-Pass Bilateral Smooth Filtering for Remote Sensing Imagery," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022. [[pdf]](https://ieeexplore.ieee.org/document/9325516) [[code]](https://github.com/bigmms/chen_grsl21_tpbf)
+2. B. -H. Chen, **H. -Y. Cheng**, Y. -S. Tseng and J. -L. Yin, "Two-Pass Bilateral Smooth Filtering for Remote Sensing Imagery," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, May 2022. [[pdf]](https://ieeexplore.ieee.org/document/9325516) [[code]](https://github.com/bigmms/chen_grsl21_tpbf)
 
 ### Conference Proceedings
 1. Y. -J. Chen, Y. -C. Wang, B. -H. Chen, **H. -Y. Cheng** and J. -L. Yin, "Actor-Critic Bilateral Filter for Noise-Robust Image Smoothing," 2022 IEEE International Symposium on Multimedia (ISM), Italy, 2022, pp. 273-277. [[pdf]](https://ieeexplore.ieee.org/document/10019656)
