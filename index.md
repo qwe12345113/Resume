@@ -25,12 +25,10 @@ My research interests are in the broad area of computer vision, artificial intel
 瑞相科技股份有限公司
 
 - Responsible for developing **AI-based ADAS applications** on the CNNIP hardware accelerator of **#Renesas R-Car V3H SoC**.
-  - Driver Monitoring System.
-  - Face Recognition System.
+  - Driver Monitoring System with FaceID system. [[demo video]](https://www.linkedin.com/posts/jonastsai_renesas-retronix-renesas-activity-7105850574679527424-aQfD?utm_source=share&utm_medium=member_android)
+  - Blind Spot Detection System. [[Introduction video]](https://www.linkedin.com/posts/jonastsai_retronix-computex2024-bsd-activity-7203576194854789121-MwXC?utm_source=share&utm_medium=member_android) [[demo video]](https://www.linkedin.com/posts/jonastsai_ai-v3h2-bsd-activity-7226512358691549185-01dC?utm_source=share&utm_medium=member_android) 
   - Traffic Light Detection System.
-  - Traffic Sign Detection System.
-  - Parking Slot Detection System.
-  - Blind Spot Detection System.
+  - Traffic Sign Detection System. 
  
 ### Research Assistant ( Sep 2018 - Sep 2021 )
 The Multi Media Big Data System Lab, Yuan Ze University
