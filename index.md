@@ -39,18 +39,18 @@ The Multi Media Big Data System Lab, Yuan Ze University
 
 ### Research Assistant ( Sep 2020 - Nov 2020 )
 臻鼎科技股份有限公司
-- Industry‑University Cooperation Projects ：**Health Card Reader**.
+- Industrial/Academic Cooperation Project ：**Health Card Reader**.
   - Developed a machine learning‑based framework for detecting and analyzing the health level from WeChat app.
 
 ### Research Assistant ( Sep 2018 - Aug 2019 )
 遠通電收股份有限公司
-- Industry‑University Cooperation Projects ：**Maintenance Efficiency: False Trigger Detection**.
+- Industrial/Academic Cooperation Project ：**Maintenance Efficiency: False Trigger Detection**.
   - Developed a machine learning‑based framework for detecting and analyzing the false triggers in electronic toll collection system.
   - Developed data visualization tools for visualizing the framework in electronic toll collection system.
 
 ### Research Assistant ( Jan 2019 - Mar 2019 )
 禾伸堂企業股份有限公司
-- Industry‑University Cooperation Projects ：**Design the Employee Orientation： Python, Data Analysis, and AI**.
+- Industrial/Academic Cooperation Project ：**Design the Employee Orientation： Python, Data Analysis, and AI**.
   - Designed Python programming textbooks.
   - Designed course materials such as object detection, image classification, semantic segmentation...etc.
 
