@@ -6,78 +6,81 @@ layout: default
 <!-- ![Branching](./figures/demo.jpg) -->
 
 # About
-<img alt="" src="figures/IMAG0206-1.jpg" style=" float:left ; margin:5px " width="30%">My name is **Cheng Hsiang-Yin**. I obtained my Ph.D. from Yuan Ze University in 2021. My research interests are in the broad area of **artificial intelligence**, **deep learning**, **computer vision**, and **image processing**. Specifically, I have extensive experience in the following research areas: object recognition and detection, supervised and unsupervised learning, reinforcement learning. My Ph.D. studies have experienced computer programmer with academic experience that has published 2 IEEE journal articles, 4 conference articles. <br clear="left">
 
-Currently working as a **Senior Engineer** in the Automotive Systems Department of **Retronix** Technologies, Inc. and is responsible for developing AI-based ADAS applications on the **#Renesas R-Car V3H SoC**. We have completed the following **ADAS** projects: Driving behavior detection, FaceID system...and so on.
+I am currently pursuing an MSc in Data Science at King’s College London, building upon my strong foundation in artificial intelligence, deep learning, and computer vision. I obtained my Ph.D. in Engineering from Yuan Ze University, Taiwan, in 2021.
 
-<!-- <img alt="" src="figures/IMAG0206-1.jpg" style=" float:left ; margin:10px " width="21%">My name is **Cheng Hsiang-Yin**. I obtained my Ph.D. from Yuan Ze University in 2021. My research interests are in the broad area of artificial intelligence, deep learning, computer vision, and image processing. Specifically, I have extensive experience in the following research areas: object recognition and detection, supervised and unsupervised learning, reinforcement learning. My Ph.D. studies have experienced computer programmer with academic experience that has published 2 IEEE journal articles, 4 conference articles, and participated in 5 research projects, 3 industry-university cooperation projects. <br clear="left"> -->
+Before returning to academia, I worked as a Senior Engineer at Retronix Technologies, Inc., where I developed AI-based Advanced Driver Assistance Systems (ADAS) on the Renesas R-Car V3H SoC. My work focused on driver behavior detection, FaceID systems, and blind spot detection, integrating computer vision models into embedded environments.
 
-<!-- 您好，我是鄭翔尹，畢業於元智大學資訊工程所博士班。在學期間，發表2篇 IEEE 國際期刊論文和4篇 IEEE 國際會議論文；並參與3個產學合作計畫。主要的研究方向是電腦視覺，和深度學習；並了解物件偵測，監督與非監督式學習，強化學習...等方面知識。 -->
+I am passionate about applying machine learning and data analysis techniques to solve practical problems and uncover meaningful insights from complex data.
 
+<!-- <img alt="" src="figures/IMAG0206-1.jpg" style=" float:left ; margin:5px " width="30%">My name is **Cheng Hsiang-Yin**. I obtained my Ph.D. from Yuan Ze University in 2021. My research interests are in the broad area of **artificial intelligence**, **deep learning**, **computer vision**, and **image processing**. Specifically, I have extensive experience in the following research areas: object recognition and detection, supervised and unsupervised learning, reinforcement learning. My Ph.D. studies have experienced computer programmer with academic experience that has published 2 IEEE journal articles, 4 conference articles. <br clear="left">
 
-<!-- I am Joe from Taiwan. I have passion in computer science. This passion carried me through my education at Yuan-Ze University. My Ph.D. studies have provided me with broad proficiency in the use of computer science engineering methods, techniques, and tools. Alongside this, I experienced computer programmer with academic experience that has published 2 IEEE journal articles, 3 conference articles, and participated in 3 industry-university cooperation projects.
- -->
-<!--My name is Joe. I have passion in computer science. This passion carried me through my education at Yuan-Ze University. My Ph.D. studies have provided me with broad proficiency in the use of computer science and engineering methods, techniques, and tools. Alongside this, I experienced computer programmer with academic experience that has published 2 IEEE journal articles, 3 conference articles, and participated in 3 industry-university cooperation projects.
-My research interests are in the broad area of computer vision, artificial intelligence, and image processing. Specifically, I have extensive experience in the following research areas: object recognition and detection, machine learning, deep learning, supervised and unsupervised learning, image super-resolution, and able to write the following specialties languages: Python, Matlab, C++, and Java.-->
+Currently working as a **Senior Engineer** in the Automotive Systems Department of **Retronix** Technologies, Inc. and is responsible for developing AI-based ADAS applications on the **#Renesas R-Car V3H SoC**. We have completed the following **ADAS** projects: Driving behavior detection, FaceID system...and so on.-->
+
 
 ## Work & Intership Experience
-### Senior Engineer ( Jun 2022 - Present )
-Retronix Technologies, Inc
+### Retronix Technologies, Inc – Taipei, Taiwan
+Senior Engineer (Cross-functional Team of 10-20) | Jun 2022 – Dec 2024
 
-- Responsible for developing **AI-based ADAS applications** on the CNNIP hardware accelerator of **#Renesas R-Car V3H SoC**.
+- Developed AI-based ADAS applications on Renesas SoC, including Driver Fatigue Detection, Face Recognition, Traffic Light & Speed Limit Detection, and Blind Spot Detection.
+- Built and annotated a large-scale image database; designed automated annotation tools to improve labeling efficiency.
+- Trained and pruned deep learning models (PyTorch) to meet SoC computational constraints, reducing resource usage.
+- Optimized image preprocessing and integrated ADAS systems in collaboration with cross-functional teams.
+- Applied Generative AI to mitigate data imbalance and reduce manual data collection efforts.
+
+- Demonstrated AI-based ADAS applications.
   - Driver Monitoring System with FaceID system. [[demo video]](https://www.linkedin.com/posts/jonastsai_renesas-retronix-renesas-activity-7105850574679527424-aQfD?utm_source=share&utm_medium=member_android)
   - Blind Spot Detection System. [[Introduction video]](https://www.linkedin.com/posts/jonastsai_retronix-computex2024-bsd-activity-7203576194854789121-MwXC?utm_source=share&utm_medium=member_android) [[demo video]](https://www.linkedin.com/posts/jonastsai_ai-v3h2-bsd-activity-7226512358691549185-01dC?utm_source=share&utm_medium=member_android) 
-  - Traffic Light Detection System.
-  - Traffic Sign Detection System. 
  
-### Research Assistant ( Sep 2018 - Sep 2021 )
-The Multi Media Big Data System Lab, Yuan Ze University
-- Published **2** IEEE journal articles, **4** conference articles.
-  - Developed a deep trident decomposition network for single license plate image glare removal.
-  - Developed an image smoothing method for remote sensing imagery and noise-robust image smoothing.
-  - Collected large-scale smoke detection database and sun glare image dataset.
+### The Multi Media Big Data System Lab, Yuan Ze University – Zhongli, Taiwan
+Research Assistant | Sept 2018 – Sept 2021
+- Published 2 IEEE journal papers and 4 conference papers on image processing and deep learning applications.
+- Developed a deep tripartite decomposition network for glare removal in license plate images, leveraging deep learning to enhance image clarity.
+- Applied edge-preserving smoothing and denoising techniques for remote sensing images.
+- Built large-scale databases for smoke and solar glare images, providing high-quality annotated data for AI-based image restoration and machine learning research.
 
-### Research Assistant ( Sep 2020 - Nov 2020 )
-臻鼎科技股份有限公司
-- Industrial/Academic Cooperation Project ：**Health Card Reader**.
-  - Developed a machine learning‑based framework for detecting and analyzing the health level from WeChat app.
+### Zhen Ding Tech. Group – Taoyuan, Taiwan
+Research & Development, Health Information Card Reader | Sept 2020 – Nov 2020
+- Collaborated on an industry-academia project to develop a health information card reader for improved epidemic prevention.
+- Implemented automatic card identification and analysis using OpenCV and OCR, ensuring accurate compliance checks.
+- Applied image processing and text recognition techniques to enhance data processing efficiency and accuracy.
 
-### Research Assistant ( Sep 2018 - Aug 2019 )
-遠通電收股份有限公司
-- Industrial/Academic Cooperation Project ：**Maintenance Efficiency: False Trigger Detection**.
-  - Developed a machine learning‑based framework for detecting and analyzing the false triggers in electronic toll collection system.
-  - Developed data visualization tools for visualizing the framework in electronic toll collection system.
+### Far Eastern Electronic Toll Collection Co., Ltd – New Taipei City, Taiwan
+Research & Development, ETC Detection System | Sept 2018 – Aug 2019
+- Led development of a false trigger detection system for ETC gantries using Python and Scikit-Learn, automating the detection of misfiring events.
+- Built a data visualization tool with Django and MySQL for real-time monitoring and analysis of gantry misfires.
+- Integrated detection and visualization tools to reduce field data collection, lowering operational costs and improving efficiency.
 
-### Research Assistant ( Jan 2019 - Mar 2019 )
-禾伸堂企業股份有限公司
-- Industrial/Academic Cooperation Project ：**Employee Orientation Design： Python, Data Analysis, and AI**.
-  - Designed Python programming textbooks.
-  - Designed AI course materials such as object detection, image classification, semantic segmentation...etc.
+### Holy Stone Enterprise Co., Ltd. – Taipei, Taiwan
+Research Assistant, AI Educational Training Program | Jan 2019 – Mar 2019
+- Assisted in designing Python programming and AI curriculum, covering object detection and classification.
+- Conducted training sessions to promote AI development trends and equip employees with practical AI skills.
 
 ## Academic Background
+### Master of Science ( Sep 2024 – Present )
+Department of Informatics, King’s College London, London, United Kingdom
+- Programme: Data Science
+- Focusing on data analytics
+
 ### Doctor of Philosophy ( Sep 2018 - Sep 2021 )
 Department of Computer Science and Engineering, Yuan Ze University, Taoyuan, Taiwan
+- Programme: Computer Science
+- Focusing on machine learning, computer vision, and applied AI
 - Dissertation title : Trustable AI: A Study on Noise-Tolerant Image Filters for Edge-preserving Smoothing
 - Overall GPA 3.71/4.0
 
 ### Bachelor of Science ( Sep 2014 - Jun 2018 )
 Department of Computer Science and Engineering, Yuan Ze University, Taoyuan, Taiwan
+- Programme: Computer Science
 
 ## Skill
-### Programming Languages
-- Python (Mainly used)
-- Matlab
-- C++
-- Java
+### Programming & Languages
+- Python (main), Matlab, C++, Java
 
 ### Deep Learning
-- Familiar with deep learning frameworks like：TensorFlow, Keras, Pytorch.
-- Familiar with deep learning techniques like：CNN, RNN, GAN, DQN, A2C, A3C.
-- Experience with deep learning applications like：
-  - Object Detection,
-  - Object Recognition,
-  - Object Classification,
-  - Semantic Segmentation ... and so on.
+- Frameworks: TensorFlow, Keras, PyTorch, ONNX
+- Techniques: CNN, RNN, GAN, DQN, A2C, A3C
+- Applications: Object Detection, Recognition, Classification, Semantic Segmentation
 
 ## Publications
 ### Journal Articles
@@ -97,12 +100,12 @@ Department of Computer Science and Engineering, Yuan Ze University, Taoyuan, Tai
 ## Honors & Awards
 <a href="https://github.com/qwe12345113/Resume/blob/main/figures/gcce.jpg" title=""><img src="figures/gcce.jpg" alt="Cover" width="40%"/></a> <a href="https://github.com/qwe12345113/Resume/blob/main/figures/award3.png" title=""><img src="figures/award3.png" alt="Cover" width="38%"/></a>
 
-<a href="https://github.com/qwe12345113/Resume/blob/main/figures/ICICE.pdf" title=""><img src="figures/ICICE.jpg" alt="Cover" width="20%"/></a> <a href="https://github.com/qwe12345113/Resume/blob/main/figures/toeic.pdf" title=""><img src="figures/toeic.jpg" alt="Cover" width="20%"/></a> <a href="https://github.com/qwe12345113/Resume/blob/main/figures/award2.png" title=""><img src="figures/award2.png" alt="Cover" width="20%"/></a> <a href="https://github.com/qwe12345113/Resume/blob/main/figures/award1.jpg" title=""><img src="figures/award1.jpg" alt="Cover" width="20%"/></a>
+<a href="https://github.com/qwe12345113/Resume/blob/main/figures/IELTS_score_Hsiang-Yin_CHENG.pdf" title=""><img src="figures/IELTS_score_Hsiang-Yin_CHENG.png" alt="Cover" width="20%"/> <a href="https://github.com/qwe12345113/Resume/blob/main/figures/ICICE.pdf" title=""><img src="figures/ICICE.jpg" alt="Cover" width="20%"/></a> </a> <a href="https://github.com/qwe12345113/Resume/blob/main/figures/award2.png" title=""><img src="figures/award2.png" alt="Cover" width="20%"/></a> <a href="https://github.com/qwe12345113/Resume/blob/main/figures/award1.jpg" title=""><img src="figures/award1.jpg" alt="Cover" width="20%"/></a>
 
 ## language
 - Chinese：Native proficiency
 - English：Professional working proficiency
-  - Toeic：700 
+  - IELTS(Academic 2025): Overall Band 6.5 
 
 ## Contact
 Please feel free to contact me <!-- on my Email：[myworkac38610@gmail.com](mailto:myworkac38610@gmail.com)-->
