@@ -80,7 +80,7 @@ Department of Computer Science and Engineering, Yuan Ze University, Taoyuan, Tai
 - Techniques: CNN, RNN, GAN, DQN, A2C, A3C
 - Applications: Object Detection, Recognition, Classification, Semantic Segmentation
 
-## Publications
+## Publications <small>[<a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AKzYXQ3H-MIUycvysgb7HWvkDqjyfE6yP47YLdTWdnPxcGPSGguLsLp7rO4NJ6eHOd_u43--_F0EaiTsFYBhKA&user=ip2j7REAAAAJ" target="_blank">Google Scholar</a>]</small>
 ### Journal Articles
 1. B. -H. Chen, S. Ye, J. -L. Yin, **H. -Y. Cheng** and D. Chen, "Deep Trident Decomposition Network for Single License Plate Image Glare Removal," in IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 7, pp. 6596-6607, July 2022. [[pdf]](https://ieeexplore.ieee.org/document/9357944) [[code]](https://github.com/bigmms/chen_tits21) [[dataset]](https://bigmms.github.io/chen_tits21_dataset/)
 
