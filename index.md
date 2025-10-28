@@ -21,7 +21,6 @@ Currently working as a **Senior Engineer** in the Automotive Systems Department 
 ## Work & Intership Experience
 ### Retronix Technologies, Inc – Taipei, Taiwan
 Senior Engineer (Cross-functional Team of 10-20) | Jun 2022 – Dec 2024
-
 - Developed AI-based ADAS applications on Renesas SoC, including Driver Fatigue Detection, Face Recognition, Traffic Light & Speed Limit Detection, and Blind Spot Detection.
 - Built and annotated a large-scale image database; designed automated annotation tools to improve labeling efficiency.
 - Trained and pruned deep learning models (PyTorch) to meet SoC computational constraints, reducing resource usage.
@@ -57,7 +56,7 @@ Research Assistant, AI Educational Training Program | Jan 2019 – Mar 2019
 - Conducted training sessions to promote AI development trends and equip employees with practical AI skills.
 
 ## Academic Background
-### Master of Science ( Sep 2024 – Present )
+### Master of Science ( Sep 2025 – Present )
 Department of Informatics, King’s College London, London, United Kingdom
 - Programme: Data Science
 - Focusing on data analytics
