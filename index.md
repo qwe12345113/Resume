@@ -26,10 +26,9 @@ Senior Engineer (Cross-functional Team of 10-20) | Jun 2022 – Dec 2024
 - Trained and pruned deep learning models (PyTorch) to meet SoC computational constraints, reducing resource usage.
 - Optimized image preprocessing and integrated ADAS systems in collaboration with cross-functional teams.
 - Applied Generative AI to mitigate data imbalance and reduce manual data collection efforts.
-
 - Demonstrated AI-based ADAS applications.
   - Driver Monitoring System with FaceID system. [[demo video]](https://www.linkedin.com/posts/jonastsai_renesas-retronix-renesas-activity-7105850574679527424-aQfD?utm_source=share&utm_medium=member_android)
-  - Blind Spot Detection System. [[Introduction video]](https://www.linkedin.com/posts/jonastsai_retronix-computex2024-bsd-activity-7203576194854789121-MwXC?utm_source=share&utm_medium=member_android) [[demo video]](https://www.linkedin.com/posts/jonastsai_ai-v3h2-bsd-activity-7226512358691549185-01dC?utm_source=share&utm_medium=member_android) 
+	- Blind Spot Detection System. [[Introduction video]](https://www.linkedin.com/posts/jonastsai_retronix-computex2024-bsd-activity-7203576194854789121-MwXC?utm_source=share&utm_medium=member_android) [[demo video]](https://www.linkedin.com/posts/jonastsai_ai-v3h2-bsd-activity-7226512358691549185-01dC?utm_source=share&utm_medium=member_android) 
  
 ### The Multi Media Big Data System Lab, Yuan Ze University – Zhongli, Taiwan
 Research Assistant | Sept 2018 – Sept 2021
