@@ -20,7 +20,7 @@ Currently working as a **Senior Engineer** in the Automotive Systems Department 
 
 ## Work & Intership Experience
 ### Retronix Technologies, Inc – Taipei, Taiwan
-Senior Engineer (Cross-functional Team of 10-20) | Jun 2022 – Dec 2024
+***Senior Engineer (Cross-functional Team of 10-20) | Jun 2022 – Dec 2024***
 - Developed AI-based ADAS applications on Renesas SoC, including Driver Fatigue Detection, Face Recognition, Traffic Light & Speed Limit Detection, and Blind Spot Detection.
 - Built and annotated a large-scale image database; designed automated annotation tools to improve labeling efficiency.
 - Trained and pruned deep learning models (PyTorch) to meet SoC computational constraints, reducing resource usage.
@@ -31,26 +31,26 @@ Senior Engineer (Cross-functional Team of 10-20) | Jun 2022 – Dec 2024
 	- Blind Spot Detection System. [[Introduction video]](https://www.linkedin.com/posts/jonastsai_retronix-computex2024-bsd-activity-7203576194854789121-MwXC?utm_source=share&utm_medium=member_android) [[demo video]](https://www.linkedin.com/posts/jonastsai_ai-v3h2-bsd-activity-7226512358691549185-01dC?utm_source=share&utm_medium=member_android) 
  
 ### The Multi Media Big Data System Lab, Yuan Ze University – Zhongli, Taiwan
-Research Assistant | Sept 2018 – Sept 2021 | [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AKzYXQ3H-MIUycvysgb7HWvkDqjyfE6yP47YLdTWdnPxcGPSGguLsLp7rO4NJ6eHOd_u43--_F0EaiTsFYBhKA&user=ip2j7REAAAAJ) | [GitHub](https://github.com/qwe12345113)
+***Research Assistant | Sept 2018 – Sept 2021 | [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AKzYXQ3H-MIUycvysgb7HWvkDqjyfE6yP47YLdTWdnPxcGPSGguLsLp7rO4NJ6eHOd_u43--_F0EaiTsFYBhKA&user=ip2j7REAAAAJ) | [GitHub](https://github.com/qwe12345113)***
 - Published 2 IEEE journal papers and 4 conference papers on image processing and deep learning applications.
 - Developed a deep tripartite decomposition network for glare removal in license plate images, leveraging deep learning to enhance image clarity.
 - Applied edge-preserving smoothing and denoising techniques for remote sensing images.
 - Built large-scale databases for smoke and solar glare images, providing high-quality annotated data for AI-based image restoration and machine learning research.
 
 ### Zhen Ding Tech. Group – Taoyuan, Taiwan
-Research & Development, Health Information Card Reader | Sept 2020 – Nov 2020
+***Research & Development, Health Information Card Reader | Sept 2020 – Nov 2020***
 - Collaborated on an industry-academia project to develop a health information card reader for improved epidemic prevention.
 - Implemented automatic card identification and analysis using OpenCV and OCR, ensuring accurate compliance checks.
 - Applied image processing and text recognition techniques to enhance data processing efficiency and accuracy.
 
 ### Far Eastern Electronic Toll Collection Co., Ltd – New Taipei City, Taiwan
-Research & Development, ETC Detection System | Sept 2018 – Aug 2019
+***Research & Development, ETC Detection System | Sept 2018 – Aug 2019***
 - Led development of a false trigger detection system for ETC gantries using Python and Scikit-Learn, automating the detection of misfiring events.
 - Built a data visualization tool with Django and MySQL for real-time monitoring and analysis of gantry misfires.
 - Integrated detection and visualization tools to reduce field data collection, lowering operational costs and improving efficiency.
 
 ### Holy Stone Enterprise Co., Ltd. – Taipei, Taiwan
-Research Assistant, AI Educational Training Program | Jan 2019 – Mar 2019
+***Research Assistant, AI Educational Training Program | Jan 2019 – Mar 2019***
 - Assisted in designing Python programming and AI curriculum, covering object detection and classification.
 - Conducted training sessions to promote AI development trends and equip employees with practical AI skills.
 
