@@ -31,7 +31,7 @@ Senior Engineer (Cross-functional Team of 10-20) | Jun 2022 – Dec 2024
 	- Blind Spot Detection System. [[Introduction video]](https://www.linkedin.com/posts/jonastsai_retronix-computex2024-bsd-activity-7203576194854789121-MwXC?utm_source=share&utm_medium=member_android) [[demo video]](https://www.linkedin.com/posts/jonastsai_ai-v3h2-bsd-activity-7226512358691549185-01dC?utm_source=share&utm_medium=member_android) 
  
 ### The Multi Media Big Data System Lab, Yuan Ze University – Zhongli, Taiwan
-Research Assistant | Sept 2018 – Sept 2021 | [Github](https://github.com/qwe12345113) 
+Research Assistant | Sept 2018 – Sept 2021 | [Google Scholar](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AKzYXQ3H-MIUycvysgb7HWvkDqjyfE6yP47YLdTWdnPxcGPSGguLsLp7rO4NJ6eHOd_u43--_F0EaiTsFYBhKA&user=ip2j7REAAAAJ) | [GitHub](https://github.com/qwe12345113)
 - Published 2 IEEE journal papers and 4 conference papers on image processing and deep learning applications.
 - Developed a deep tripartite decomposition network for glare removal in license plate images, leveraging deep learning to enhance image clarity.
 - Applied edge-preserving smoothing and denoising techniques for remote sensing images.
@@ -80,7 +80,7 @@ Department of Computer Science and Engineering, Yuan Ze University, Taoyuan, Tai
 - Techniques: CNN, RNN, GAN, DQN, A2C, A3C
 - Applications: Object Detection, Recognition, Classification, Semantic Segmentation
 
-## Publications <sub><sub>[<a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AKzYXQ3H-MIUycvysgb7HWvkDqjyfE6yP47YLdTWdnPxcGPSGguLsLp7rO4NJ6eHOd_u43--_F0EaiTsFYBhKA&user=ip2j7REAAAAJ" target="_blank">Google Scholar</a>]</sub></sub>
+## Publications <!--<sub><sub>[<a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AKzYXQ3H-MIUycvysgb7HWvkDqjyfE6yP47YLdTWdnPxcGPSGguLsLp7rO4NJ6eHOd_u43--_F0EaiTsFYBhKA&user=ip2j7REAAAAJ" target="_blank">Google Scholar</a>]</sub></sub>-->
 ### Journal Articles
 1. B. -H. Chen, S. Ye, J. -L. Yin, **H. -Y. Cheng** and D. Chen, "Deep Trident Decomposition Network for Single License Plate Image Glare Removal," in IEEE Transactions on Intelligent Transportation Systems, vol. 23, no. 7, pp. 6596-6607, July 2022. [[pdf]](https://ieeexplore.ieee.org/document/9357944) [[code]](https://github.com/bigmms/chen_tits21) [[dataset]](https://bigmms.github.io/chen_tits21_dataset/)
 
