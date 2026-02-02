@@ -20,7 +20,7 @@ Currently working as a **Senior Engineer** in the Automotive Systems Department 
 
 ## Work & Intership Experience
 ### Retronix Technologies, Inc – Taipei, Taiwan
-***Senior Engineer (Cross-functional Team of 10-20) | Jun 2022 – Dec 2024***
+***Senior Engineer, AI / Computer Vision (ADAS Systems) | Jun 2022 – Dec 2024***
 - Led the development of 4+ AI-based ADAS features on Renesas SoC, including Driver Fatigue Detection, Face Recognition, Traffic Light & Speed Limit Detection, and Blind Spot Detection, supporting real-time inference on embedded platforms.
 - Trained and compressed deep learning models using PyTorch, achieving ~40% model size reduction and ~30% inference speedup to meet SoC constraints.
 - Constructed and curated 100K+ image datasets and implemented automated labeling tools, increasing annotation efficiency by ~30%.
