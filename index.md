@@ -85,11 +85,11 @@ Department of Computer Science and Engineering, Yuan Ze University, Taoyuan, Tai
 4. Y. Pan, B. Chen, Z. Lin and **H. Cheng**, "Traffic Collision Detection Using Crowd Voting," International Conference on Information, Communication and Engineering, Xiamen, China, pp. 274-277, 2017. [[pdf]](https://ieeexplore.ieee.org/document/8479158)
 
 ## AWARDS
-1. 1st Place — Automotive Electronics Innovation and Invention Competition Taiwan Vehicle Electronics Consortium ***| 200 teams | Nov. 2017***
-2. Honorable Mention — National Cloud Computing and Services Project Competition Ministry of Education, Taiwan ***| 1031 teams | Dec. 2017***
-3. Finalist — Open Source Software Creative Design Competition Sun Yat-sen University & National University of Kaohsiung ***| 40 teams | Dec. 2017***
-4. Honorable Mention — Smart Internet and Robotics Innovation Design Competition Ministry of Science and Technology, Taiwan ***| 62 teams | Nov. 2017***
-5. Selected — International Innovation Competition of Applications of Sensors and Micro-Computers Chung Yuan Christian University ***| 250 teams | Aug. 2017***
+1. 1st Place — Automotive Electronics Innovation and Invention Competition Taiwan Vehicle Electronics Consortium (200 teams) | Nov. 2017
+2. Honorable Mention — National Cloud Computing and Services Project Competition Ministry of Education, Taiwan (1031 teams) | Dec. 2017
+3. Finalist — Open Source Software Creative Design Competition Sun Yat-sen University & National University of Kaohsiung (40 teams) | Dec. 2017
+4. Honorable Mention — Smart Internet and Robotics Innovation Design Competition Ministry of Science and Technology, Taiwan (62 teams) | Nov. 2017
+5. Selected — International Innovation Competition of Applications of Sensors and Micro-Computers Chung Yuan Christian University (250 teams) | Aug. 2017
 
 ## SKILL
 ### Programming & Languages
