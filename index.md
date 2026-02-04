@@ -86,9 +86,13 @@ Department of Computer Science and Engineering, Yuan Ze University, Taoyuan, Tai
 
 ## AWARDS
 1st Place — Automotive Electronics Innovation and Invention Competition Taiwan Vehicle Electronics Consortium (200 teams) | Nov. 2017
+
 Honorable Mention — National Cloud Computing and Services Project Competition Ministry of Education, Taiwan (1031 teams) | Dec. 2017
+
 Finalist — Open Source Software Creative Design Competition Sun Yat-sen University & National University of Kaohsiung (40 teams) | Dec. 2017
+
 Honorable Mention — Smart Internet and Robotics Innovation Design Competition Ministry of Science and Technology, Taiwan (62 teams) | Nov. 2017
+
 Selected — International Innovation Competition of Applications of Sensors and Micro-Computers Chung Yuan Christian University (250 teams) | Aug. 2017
 
 ## SKILL
