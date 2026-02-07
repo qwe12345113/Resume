@@ -6,7 +6,7 @@ layout: default
 <!-- ![Branching](./figures/demo.jpg) -->
 
 
-I am currently pursuing an MSc in Data Science at King’s College London, building upon my strong foundation in artificial intelligence, deep learning, and computer vision. I obtained my Ph.D. in Engineering from Yuan Ze University, Taiwan, in 2021.
+I am currently pursuing an MSc in Data Science at King’s College London, building upon my strong foundation in AI, deep learning, and computer vision by expanding my expertise in statistical analysis, data-driven modeling, and large-scale data processing. I obtained my Ph.D. in Computer Science from Yuan Ze University, Taiwan, in 2021.
 
 Before returning to academia, I worked as a Senior Engineer at Retronix Technologies, Inc., where I developed AI-based Advanced Driver Assistance Systems (ADAS) on the Renesas R-Car V3H SoC. My work focused on driver behavior detection, FaceID systems, and blind spot detection, integrating computer vision models into embedded environments.
 
@@ -53,20 +53,20 @@ Department of Computer Science and Engineering, Yuan Ze University, Taoyuan, Tai
 
 ### Zhen Ding Tech. Group – Taoyuan, Taiwan
 ***Research & Development, Health Information Card Reader | Sept. 2020 – Nov. 2020***
-- Collaborated on an industry–academia project to implement a health information card reader for epidemic prevention
+- Collaborated on an **industry–academia project** to implement a health information card reader for epidemic prevention
 - Implemented automatic card identification and analysis via OpenCV and OCR, achieving ~90% recognition accuracy and reducing manual verification time by ~50%
 - Streamlined data processing pipelines through image processing and text recognition techniques
 
 
 ### Far Eastern Electronic Toll Collection Co., Ltd – New Taipei City, Taiwan
 ***Research & Development, ETC Detection System | Sept. 2018 – Aug. 2019***
-- Led an industry–academia project to develop and design an ML-based ETC gantry false trigger detection system with Python and Scikit-Learn
+- Led an **industry–academia project** to develop and design an ML-based ETC gantry false trigger detection system with Python and Scikit-Learn
 - Built a real-time monitoring dashboard with Django and MySQL for misfire analysis
 - Integrated detection and visualization pipelines, reducing field data collection by ~25% and boosting operational efficiency
 
 ### Holy Stone Enterprise Co., Ltd. – Taipei, Taiwan
 ***Research Assistant, AI Educational Training Program | Jan. 2019 – Mar. 2019***
-- Co-designed Python/AI training programs for an industry–academia collaboration, focusing on object detection and classification
+- Co-designed Python/AI training programs for an **industry–academia collaboration**, focusing on object detection and classification
 - Delivered AI workshops to transfer practical AI skills to industry engineers
 
 ## PUBLICATIONS <!--<sub><sub>[<a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AKzYXQ3H-MIUycvysgb7HWvkDqjyfE6yP47YLdTWdnPxcGPSGguLsLp7rO4NJ6eHOd_u43--_F0EaiTsFYBhKA&user=ip2j7REAAAAJ" target="_blank">Google Scholar</a>]</sub></sub>-->
