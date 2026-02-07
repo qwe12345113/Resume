@@ -8,7 +8,7 @@ layout: default
 
 I am currently pursuing an MSc in Data Science at King’s College London, building upon my strong foundation in AI, deep learning, and computer vision by expanding my expertise in statistical analysis, data-driven modeling, and large-scale data processing. I obtained my Ph.D. in Computer Science from Yuan Ze University, Taiwan, in 2021.
 
-Before returning to academia, I worked as a Senior Engineer at Retronix Technologies, Inc., where I developed AI-based Advanced Driver Assistance Systems (ADAS) on the Renesas R-Car V3H SoC. My work focused on driver behavior detection, FaceID systems, and blind spot detection, integrating computer vision models into embedded environments.
+Before returning to academia, I worked as a Senior Engineer at Retronix Technologies, Inc., where I developed AI-based Advanced Driver Assistance Systems (ADAS) applications on the Renesas R-Car V3H SoC. My work centered on deploying computer vision models for driver monitoring and perception tasks, with an emphasis on integrating deep learning solutions into resource-constrained embedded systems.
 
 I am passionate about applying machine learning and data analysis techniques to solve practical problems and uncover meaningful insights from complex data.
 
