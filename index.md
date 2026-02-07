@@ -76,9 +76,9 @@ Department of Computer Science and Engineering, Yuan Ze University, Taoyuan, Tai
 2. B. -H. Chen, **H. -Y. Cheng**, Y. -S. Tseng and J. -L. Yin, "Two-Pass Bilateral Smooth Filtering for Remote Sensing Imagery," in IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, May 2022. [[pdf]](https://ieeexplore.ieee.org/document/9325516) [[code]](https://github.com/bigmms/chen_grsl21_tpbf)
 
 ### Conference Proceedings
-1. Y. -J. Chen, Y. -C. Wang, B. -H. Chen, **H. -Y. Cheng** and J. -L. Yin, "Actor-Critic Bilateral Filter for Noise-Robust Image Smoothing," 2022 IEEE International Symposium on Multimedia (ISM), Italy, 2022, pp. 273-277. [[pdf]](https://ieeexplore.ieee.org/document/10019656)
+1. Y. -J. Chen, Y. -C. Wang, B. -H. Chen, **H. -Y. Cheng** and J. -L. Yin, "Actor-Critic Bilateral Filter for Noise-Robust Image Smoothing," 2022 IEEE International Symposium on Multimedia (ISM), Italy, 2022, pp. 273-277. [[pdf]](https://ieeexplore.ieee.org/document/10019656) 
 
-2. B. Chen, **H. Cheng** and J. Yin, "Adaptive Actor-Critic Bilateral Filter," ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore, Singapore, 2022, pp. 1675-1679. [[pdf]](https://ieeexplore.ieee.org/document/9746631)
+2. B. Chen, **H. Cheng** and J. Yin, "Adaptive Actor-Critic Bilateral Filter," ICASSP 2022 - 2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), Singapore, Singapore, 2022, pp. 1675-1679. [[pdf]](https://ieeexplore.ieee.org/document/9746631) [[code]](https://github.com/bigmms/a2cbf)
 
 3. **H. -Y. Cheng**, J. -L. Yin, B. -H. Chen and Z. -M. Yu, "Smoke 100k: A Database for Smoke Detection," 2019 IEEE 8th Global Conference on Consumer Electronics (GCCE), Osaka, Japan, 2019. [[pdf]](https://ieeexplore.ieee.org/document/9015309) [[dataset]](https://bigmms.github.io/cheng_gcce19_smoke100k/)
 
